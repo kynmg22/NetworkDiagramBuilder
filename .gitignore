@@ -1,0 +1,32 @@
+# ビルド出力
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# ログ・一時ファイル
+*.log
+*.tmp
+*.temp
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# 発行出力
+publish/
