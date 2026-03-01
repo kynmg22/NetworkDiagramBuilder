@@ -97,7 +97,7 @@ namespace NetworkDiagramBuilder
 
         // ── バージョン情報 ──
         private const string AppVersion    = "1.0.0";
-        private const string GitHubOwner   = "your-github-username";   // ← 要変更
+        private const string GitHubOwner   = "kynmg22";   // ← 要変更
         private const string GitHubRepo    = "NetworkDiagramBuilder";  // ← 要変更
         private const string GitHubApiUrl  = $"https://api.github.com/repos/{GitHubOwner}/{GitHubRepo}/releases/latest";
         private const string GitHubRelUrl  = $"https://github.com/{GitHubOwner}/{GitHubRepo}/releases/latest";
